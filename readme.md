@@ -2,9 +2,9 @@
 
 ## Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Carrera:** [Tu carrera]
-- **Fecha de inicio:** [Fecha]
+- **Nombre:** Eduardo Céspedes
+- **Carrera:** Desarrollo de Software
+- **Fecha de inicio:** 12/06/26
 
 ---
 
