@@ -2,7 +2,7 @@
 
 ## Información del Estudiante
 
-- **Nombre: Eduardo Céspedes
+- **Nombre:** Eduardo Cespedes
 - **Carrera:** Desarrollo de Software
 - **Fecha de inicio:** 12 de junio del 2026
 
